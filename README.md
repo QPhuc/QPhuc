@@ -93,5 +93,10 @@ This project demonstrates:
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=QPhuc&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+
+---
+
 ✨ **Thanks for visiting my profile!**  
 I’m always open to collaborating on interesting projects or learning opportunities.
